@@ -45,22 +45,22 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Lavish"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
+    hearts: ['💋', '👉👈', '😚', '💗', '🥺'],  // Heart emojis in background
     bears: ['🧸', '🐻']                       // Bear emojis in background
 }
 
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
+        text: "Do you love me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "I love you mere chukku pukku"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
@@ -85,7 +85,7 @@ loveMessages: {
 celebration: {
     title: "Yay! I'm the luckiest person...",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    emojis: "🎁💝💋🫂💕"                        // Celebration emojis
 }
 
 // Website Colors
